@@ -1,5 +1,5 @@
 // Adhi Setiyoko
-// 8/366
+// 9/366
 // https://www.codewars.com/kata/577a98a6ae28071780000989
 
 // var min = function(list){
